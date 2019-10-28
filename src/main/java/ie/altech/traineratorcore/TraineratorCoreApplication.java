@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TraineratorCoreApplication {
 
 	// add some code here
-	// test_3
+	// test_4
 	public static void main(String[] args) {
 		SpringApplication.run(TraineratorCoreApplication.class, args);
 	}
